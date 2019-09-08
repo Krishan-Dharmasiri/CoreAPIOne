@@ -1,0 +1,14 @@
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\bin\Debug\netcoreapp2.1\CoreAPIOne.deps.json
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\bin\Debug\netcoreapp2.1\CoreAPIOne.runtimeconfig.json
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\bin\Debug\netcoreapp2.1\CoreAPIOne.runtimeconfig.dev.json
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\bin\Debug\netcoreapp2.1\CoreAPIOne.dll
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\obj\Debug\netcoreapp2.1\CoreAPIOne.csproj.CoreCompileInputs.cache
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\obj\Debug\netcoreapp2.1\CoreAPIOne.RazorAssemblyInfo.cache
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\obj\Debug\netcoreapp2.1\CoreAPIOne.RazorAssemblyInfo.cs
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\obj\Debug\netcoreapp2.1\CoreAPIOne.AssemblyInfoInputs.cache
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\obj\Debug\netcoreapp2.1\CoreAPIOne.AssemblyInfo.cs
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\obj\Debug\netcoreapp2.1\CoreAPIOne.RazorTargetAssemblyInfo.cache
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\obj\Debug\netcoreapp2.1\CoreAPIOne.csprojAssemblyReference.cache
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\bin\Debug\netcoreapp2.1\CoreAPIOne.pdb
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\obj\Debug\netcoreapp2.1\CoreAPIOne.dll
+C:\Krishantha\Projects\SL\2019\CoreAPIOne\CoreAPIOne\obj\Debug\netcoreapp2.1\CoreAPIOne.pdb
